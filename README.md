@@ -11,7 +11,7 @@ This repository contains implementations of algorithms and data structures in C+
 
 |  #  | Algorithm                                | Repo          |
 |-----|:----------------------------------------:|:-------------:|
-|1 |Heaps|[implementation](link)|
+|1 |Heaps|[implementation](https://github.com/Mohamed-Khalifa12/algorithms-and-data-structures/tree/main/Heap%20Sort)|
 
 ## Usage
 To use the implementations in this repository, simply clone the repository and include the header files in your project.
